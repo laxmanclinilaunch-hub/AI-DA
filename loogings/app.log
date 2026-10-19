@@ -91,3 +91,18 @@ CRITICAL:root:this is my log of  crtical message error
 [2026-10-16 12:46:35,932] root -INFO - seema
 [2026-10-16 12:46:35,932] root -INFO - neha
 [2026-10-16 12:46:35,933] root -INFO - richard
+
+
+[2026-10-19 12:39:11,439] root -INFO - 13 this is the addtion
+
+
+
+[2026-10-19 12:43:03,846] root -INFO - 13 this is my addtion
+[2026-10-19 12:43:03,846] root -INFO - this is my subtraction -4
+[2026-10-19 12:43:03,848] root -INFO - this is my multiplication 6
+[2026-10-19 12:43:03,848] root -INFO - this is my division 5.0
+
+[2026-10-19 12:48:29,493] root -INFO - 13 this is my addtion
+[2026-10-19 12:48:29,493] root -INFO - this is my subtraction -4
+[2026-10-19 12:48:29,493] root -INFO - this is my multiplication 6
+[2026-10-19 12:48:29,493] root -INFO - this is my division 5.0
