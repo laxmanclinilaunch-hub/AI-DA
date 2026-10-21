@@ -106,3 +106,21 @@ CRITICAL:root:this is my log of  crtical message error
 [2026-10-19 12:48:29,493] root -INFO - this is my subtraction -4
 [2026-10-19 12:48:29,493] root -INFO - this is my multiplication 6
 [2026-10-19 12:48:29,493] root -INFO - this is my division 5.0
+
+
+[2026-10-21 12:38:00,224] root -INFO - circlearea 78.53981633974483
+[2026-10-21 12:38:00,224] root -INFO - circle circumference ,31.41592653589793
+[2026-10-21 12:38:00,225] root -INFO - squre area:  25
+[2026-10-21 12:38:00,225] root -INFO - square perimeter 20
+[2026-10-21 12:39:00,710] root -INFO - circlearea 78.53981633974483
+[2026-10-21 12:39:00,710] root -INFO - circle circumference ,31.41592653589793
+[2026-10-21 12:39:00,710] root -INFO - squre area:  25
+[2026-10-21 12:39:00,710] root -INFO - square perimeter 20
+[2026-10-21 12:39:00,710] root -INFO - triangle area 25.0
+[2026-10-21 12:39:00,710] root -INFO - triangle perimter 12
+[2026-10-21 12:39:55,872] root -INFO - circlearea 78.53981633974483
+[2026-10-21 12:39:55,872] root -INFO - circle circumference ,31.41592653589793
+[2026-10-21 12:39:55,872] root -INFO - squre area:  25
+[2026-10-21 12:39:55,872] root -INFO - square perimeter 20
+[2026-10-21 12:39:55,872] root -INFO - triangle area 25.0
+[2026-10-21 12:39:55,872] root -INFO - triangle perimter 12
